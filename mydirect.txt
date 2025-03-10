@@ -15,7 +15,6 @@ payload:
   - DOMAIN-KEYWORD,fentvoss
   - DOMAIN-KEYWORD,defgg
   - DOMAIN-KEYWORD,gszyi
-  - DOMAIN-KEYWORD,cdn
   - DOMAIN-KEYWORD,qrssv 
   - DOMAIN-KEYWORD,1080pzy
   - DOMAIN-KEYWORD,modujx
@@ -39,3 +38,8 @@ payload:
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,mjw21.com
   - DOMAIN-SUFFIX,ixkw.cc
+  - DOMAIN-KEYWORD,y0122
+  - DOMAIN-KEYWORD,eastgame
+  - DOMAIN-SUFFIX,sao.fm
+  - DOMAIN-SUFFIX,ourbit.com
+  - DOMAIN-SUFFIX,high1-playback.com
