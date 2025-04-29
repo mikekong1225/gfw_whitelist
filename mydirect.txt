@@ -1,5 +1,4 @@
 payload:
-  #- PROCESS-NAME,hysteria
   - DOMAIN-KEYWORD,vodtw
   - DOMAIN-KEYWORD,gimy
   - DOMAIN-KEYWORD,ffzy
@@ -24,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,yueing.org
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,hdcmct.org
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,nanyangpt.com
   - DOMAIN-SUFFIX,hd-space.org
@@ -34,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,iptorrents.com
   - DOMAIN-SUFFIX,totheglory.im
-  - DOMAIN-SUFFIX,high24-playback.com, CN
+  - DOMAIN-SUFFIX,high24-playback.com
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,mjw21.com
   - DOMAIN-SUFFIX,ixkw.cc
