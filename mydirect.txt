@@ -3,9 +3,6 @@ payload:
   - DOMAIN-KEYWORD,gimy
   - DOMAIN-KEYWORD,ffzy
   - DOMAIN-KEYWORD,yzzy
-  - DOMAIN-KEYWORD,lz
-  - DOMAIN-KEYWORD,v1
-  - DOMAIN-KEYWORD,v8
   - DOMAIN-KEYWORD,78aab
   - DOMAIN-KEYWORD,379973
   - DOMAIN-KEYWORD,bfvvs
@@ -38,8 +35,7 @@ payload:
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,mjw21.com
   - DOMAIN-SUFFIX,ixkw.cc
-  - DOMAIN-KEYWORD,y0122
-  - DOMAIN-KEYWORD,eastgame
+  - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,sao.fm
   - DOMAIN-SUFFIX,ourbit.com
   - DOMAIN-SUFFIX,high1-playback.com
