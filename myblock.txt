@@ -1,0 +1,3 @@
+payload:
+# - DOMAIN-KEYWORD,modujx
+  - DOMAIN-SUFFIX,ads.raidrive.com
