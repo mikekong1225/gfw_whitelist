@@ -39,3 +39,5 @@ payload:
   - DOMAIN-SUFFIX,sao.fm
   - DOMAIN-SUFFIX,ourbit.com
   - DOMAIN-SUFFIX,high1-playback.com
+  - DOMAIN-SUFFIX,kuaizi.cc
+
