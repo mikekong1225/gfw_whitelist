@@ -1,3 +1,6 @@
 payload:
 # - DOMAIN-KEYWORD,modujx
   - DOMAIN-SUFFIX,ads.raidrive.com
+  - DOMAIN-SUFFIX,secure.internetdownloadmanager.com
+
+
