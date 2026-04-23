@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,hdcmct.org
+  - DOMAIN-SUFFIX,yueing.org
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,nanyangpt.com
   - DOMAIN-SUFFIX,hd-space.org
