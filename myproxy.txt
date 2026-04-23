@@ -1,0 +1,6 @@
+# Google 核心域名与 CDN
+- DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,ggpht.com
+- DOMAIN-SUFFIX,googleusercontent.com
+- DOMAIN-KEYWORD,translate.google
